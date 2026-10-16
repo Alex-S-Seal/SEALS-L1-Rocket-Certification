@@ -89,7 +89,7 @@ This project served as an end-to-end aerospace systems engineering effort involv
 
 ### Launch Operations
 
-images/launch.jpg
+<img width="3024" height="4032" alt="IMG_5783" src="https://github.com/user-attachments/assets/c6aa9001-cbc2-47ee-be5b-0f0d2bdd88c5" />
 
 ### Vehicle Assembly
 
