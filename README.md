@@ -1,7 +1,8 @@
 # 🚀 Figure.09
 
-
+<p align="center">
 <img width="500" height="700" alt="IMG_6453 (1)" src="https://github.com/user-attachments/assets/910d3ae2-b4e6-4407-8e45-8d6d56635166" />
+</p>
 
 <p align="center">
   <b>Custom High-Power Rocket Designed, Simulated, Manufactured, and Flown for Tripoli Level 1 Certification</b>
