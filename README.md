@@ -1,8 +1,6 @@
 # 🚀 Figure.09
 
-<p align="center">
-  <img src="Images/Launch/launch_thumbnail.jpg" width="800">
-</p>
+
 
 <p align="center">
   <b>Custom High-Power Rocket Designed, Simulated, Manufactured, and Flown for Tripoli Level 1 Certification</b>
