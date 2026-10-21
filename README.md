@@ -52,7 +52,7 @@
 
 The complete project report documents the research, design process, engineering decisions, manufacturing procedures, flight simulations, launch operations, and post-flight analysis.
 
-➡️ **[View Full Report](Report/L1_Rocket_Report.pdf)**
+➡️ **[View Full Report](FULL_REPORT_ASEAL.pdf)**
 
 ---
 
