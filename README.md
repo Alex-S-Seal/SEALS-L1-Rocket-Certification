@@ -1,29 +1,36 @@
 # 🚀 Figure.09
 
-A custom high-power rocket designed, manufactured, simulated, and launched to achieve Tripoli Level 1 Certification.
+<p align="center">
+  <img src="Images/Launch/launch_thumbnail.jpg" width="800">
+</p>
 
-## Project Overview
+<p align="center">
+  <b>Custom High-Power Rocket Designed, Simulated, Manufactured, and Flown for Tripoli Level 1 Certification</b>
+</p>
 
-This project encompassed the complete engineering lifecycle, including:
+<p align="center">
+  Flight Altitude: ~1,310 ft • CTI H225 • Successful L1 Certification
+</p>
 
-- Research and mission planning
-- Vehicle configuration development
-- CAD modeling and design
-- Flight simulation and stability analysis
-- Manufacturing and assembly
-- Systems integration
-- Launch operations and recovery
-- Post-flight performance evaluation
+---
 
-## Key Results
+## 📸 Project Snapshot
 
-- ✅ Successful Tripoli Level 1 Certification
-- ✅ Custom-designed non-kit rocket
-- ✅ Flight altitude of approximately 1,310 ft AGL
-- ✅ Safe recovery with no vehicle damage
-- ✅ Less than 5% error between predicted and actual apogee
 
-## Skills Demonstrated
+
+---
+
+## ✅ Key Results
+
+- Successful Tripoli Level 1 Certification
+- Custom-designed non-kit rocket
+- Flight altitude of approximately 1,310 ft AGL
+- Safe recovery with no vehicle damage
+- Less than 5% error between predicted and actual apogee
+
+---
+
+## 🛠 Skills Demonstrated
 
 - Aerospace Vehicle Design
 - CAD Modeling (Autodesk Inventor)
@@ -37,30 +44,42 @@ This project encompassed the complete engineering lifecycle, including:
 - Project Planning
 - Flight Operations
 
-## Engineering Highlights
+---
+
+## 📄 Full Engineering Report
+
+The complete project report documents the research, design process, engineering decisions, manufacturing procedures, flight simulations, launch operations, and post-flight analysis.
+
+➡️ **[View Full Report](Report/L1_Rocket_Report.pdf)**
+
+---
+
+## 🔧 Engineering Highlights
 
 - Designed custom airfoiled fin geometry
 - Created a complete 3D CAD model in Autodesk Inventor
 - Produced detailed assembly drawings for manufacturing and integration
-- Manufactured a through-the-wall fin structure
-- Performed iterative design validation through simulation
-- Evaluated multiple motor configurations
+- Manufactured through-the-wall fin structures
+- Evaluated multiple motor configurations through simulation
 - Integrated recovery and avionics systems
-- Verified flight performance against simulation predictions
+- Performed flight verification against simulated performance predictions
 
-## Vehicle Specifications
+---
 
-- Airframe Diameter: 4 in
-- Propulsion: CTI H225
-- Recovery System: 36 in Parachute
-- Fin Configuration: Four Custom Airfoiled Fins
-- Construction: Custom-Built Vehicle
+## 🚀 Vehicle Specifications
 
-## Documentation
+| Parameter | Value |
+|------------|---------|
+| Vehicle Name | Figure.09 |
+| Airframe Diameter | 4 in |
+| Motor | CTI H225 |
+| Recovery System | 36 in Parachute |
+| Fin Configuration | Four Custom Airfoiled Fins |
+| Construction Method | Custom-Built Vehicle |
 
-- Engineering Design Report
-- Manufacturing Photographs
-- CAD Models
-- Technical Drawings
-- Flight Simulations
-- Launch & Recovery Documentation
+
+## 📖 About the Project
+
+Figure.09 was conceived as a fully custom high-power rocket intended to satisfy the requirements for Tripoli Level 1 Certification. Rather than assembling a commercial kit, the vehicle was developed from individually selected components and custom-designed structures, requiring the application of aerospace design principles, manufacturing techniques, simulation-driven decision making, and systems integration.
+
+The project provided hands-on experience with the complete engineering development cycle, from initial concept through successful flight and recovery.
